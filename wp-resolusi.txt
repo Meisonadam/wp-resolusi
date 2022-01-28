@@ -1,3 +1,6 @@
 Wp Resolusi
 - Konsisten coding 8jam sehari.
 - Lari pagi.
+- Tidur teratur.
+- Memulai coding JAVA
+  -Menggunakan Eclipse
