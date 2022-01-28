@@ -4,3 +4,5 @@ Wp Resolusi
 - Tidur teratur.
 - Memulai coding JAVA
   -Menggunakan Eclipse
+- Memulai SQL
+- Memulai WEB
